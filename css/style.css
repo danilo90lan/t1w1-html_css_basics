@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+}
+
+h1 {
+    color: greenyellow;
+    background-color: red;
+}
+
+.article_p {
+    font-size: 1.5rem;
+}
+
+#footer_p {
+    color: yellow;
+    background-color: black;
+}
+
+ul {
+    background-color: tan;
+}
+
+li {
+    color: red;
+    background-color:rgb(56, 66, 211);
+}
+
+li:nth-child(2) {
+    background-color: darkgray;
+}
+
+img {
+    max-width: 40%;
+    height: 40%;
+    align-content: center;
+}
